@@ -1,1 +1,1 @@
-Jerry Bowman, we gave your login.
+Jerry Bowman, we have your login.
