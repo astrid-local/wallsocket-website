@@ -2,24 +2,35 @@
 body {
     padding: 25px;
 }
-.title {
-      color: #147200;
-}
 
-h1 {
+.title {
     font-size: 38px;
     font-weight: lighter;
     font-style: oblique;
+    color: white;
 }
 
 .joshua {
   margin-top: 50px;
+  color: white;
 }
 
-.cr {
-  margin-top: 41px;
+.crintro {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  line-height: 3;
+  color: white;
 }
 
 .robbery {
   margin-top: 30px;
+}
+
+.lyrics1 {
+  margin-left: 35px;
+  padding: 0;
+  width: 85%;
+  color:white;
+  line-height: 1;
+  column-count:2;
 }
