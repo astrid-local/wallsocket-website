@@ -1,0 +1,55 @@
+* {
+  font-family: Wallsocket;
+  box-sizing: border-box;
+  color: white;
+}
+
+.title {
+    font-size: 38px;
+    font-weight: lighter;
+    font-style: oblique;
+}
+
+.table {
+  font-size: 22px;
+}
+
+.fulltrack::after {
+  clear: both;
+  display: table;
+}
+
+.fulltrack {
+  margin-left: 1%;
+  margin-top: 30px;
+}
+
+.image {
+  float: left;
+}
+
+.intro {
+  margin-left: 1%;
+  margin-top: 7.7%;
+  line-height: 2.4;
+  margin-bottom: 26px;
+}
+
+.song {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.lyrics {
+  margin-left: 35px;
+  width: 65%;
+  line-height: 1.2;
+  column-count: 2;
+  margin-bottom: 50px;
+  column-fill: balance;
+}
+
+.lyrics * {
+  margin-top: 0px;
+  font-size: 1em;
+}
